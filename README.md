@@ -1,7 +1,9 @@
 # PullDownRefreshME
-PullDownRefreshME is a LWUIT component that implements a pull-down gesture to refresh data.
+
+**PullDownRefreshME** is a LWUIT component that implements a pull-down gesture to refresh data.
 
 ##Articles
+
 * [Pull Down to Refresh for LWUIT](http://j2megroup.blogspot.com.br/2013/07/pull-down-to-refresh-for-lwuit.html)
 * [Pull Down to Refresh v1.1 for LWUIT](http://j2megroup.blogspot.com.br/2014/01/pull-down-to-refresh-v11-for-lwuit.html)
 
